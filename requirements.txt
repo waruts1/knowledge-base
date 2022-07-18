@@ -1,2 +1,8 @@
 fastapi
 uvicorn
+sqlalchemy
+psycopg2
+python-dotenv
+aiofiles
+pydantic[email]
+passlib[bcrypt]
